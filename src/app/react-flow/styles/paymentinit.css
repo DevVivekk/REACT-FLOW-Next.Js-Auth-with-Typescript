@@ -1,0 +1,10 @@
+.payment-init{
+    width: auto;
+    height: auto;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 7px;
+}

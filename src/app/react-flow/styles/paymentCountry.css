@@ -1,0 +1,11 @@
+.payment-country{
+    width: 16rem;
+    height: 7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: greenyellow;
+    padding-top: 0.4rem;
+    border-radius: 6px;
+}
